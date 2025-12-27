@@ -1,5 +1,12 @@
 # 💫 About Me:
-Hi there! I’m Chirag Chhabra, a Full Stack Developer & BCA student at JIMS Vasant Kunj (VK-1). I love building web and mobile apps that merge creative UI/UX with solid backend logic.<br>I’ve built chat apps, e-commerce bots, data-dashboards & portfolios using React, Next.js, TypeScript, Node.js, Flask, FastAPI, MongoDB & more. Currently, I’m focused on mastering cloud deployments, scalable architecture and becoming a Software Development Engineer.<br>When I’m not coding, you’ll find me exploring new frameworks, polishing my GitHub profile, and prepping for my next big web project.<br>— Let’s build something awesome together!
+Hi! I’m Chirag Chhabra, a Full Stack Developer and BCA student at JIMS Vasant Kunj (VK-1), passionate about building high-performance web and mobile applications that combine clean, intuitive UI/UX with scalable backend architecture.
+
+I’ve developed real-time chat applications, e-commerce bots, interactive dashboards, and portfolio platforms, leveraging modern technologies such as React, Next.js, TypeScript, Node.js, Flask, FastAPI, and MongoDB. My work emphasizes performance, security, and maintainability, with a strong focus on writing production-ready code.
+
+Currently, I’m deepening my expertise in cloud deployments, system design, and scalable application architecture, actively working toward becoming a Software Development Engineer.
+
+Beyond coding, I enjoy experimenting with emerging frameworks, refining my GitHub projects, and continuously challenging myself with ambitious builds.
+— Let’s create something impactful together. 🚀
 
 
 ## 🌐 Socials:
